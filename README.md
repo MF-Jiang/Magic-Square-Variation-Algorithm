@@ -13,7 +13,7 @@ The Magic Square variation algorithm can deal with 30th order magic square probl
 
 Based on VNS algorithm, other heuristics are used to complete the magic square change problem.
 
-I have tried Python, C/ C ++ different programming languages to design this algorithm, and also tried to combine VNS algorithm with other excellent algorithms such as SA, GA, etc., or use better heuristics. You can find Other algorithm attempts based on VNS in this folder. In the end, it was the C++ version I put in the root directory that worked best.
+I have tried Python, C/ C ++ different programming languages to design this algorithm, and also tried to combine VNS algorithm with other excellent algorithms such as SA, GA, etc., or use better heuristics. You can find other algorithm I designed in 'Other algorithm attempts based on VNS' folder. In the end, it was the C++ version I put in the root directory that worked best.
 
 You can refer to my packaged paper or read my report to get a deeper understanding of this algorithm design.
 
