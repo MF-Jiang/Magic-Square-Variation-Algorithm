@@ -1,5 +1,13 @@
 ## Magic Square Variation Algorithm
 
+## 📫Important Statement:
+
+This project is the result of my work on Artificial Intelligence Methods during my junior year. I made it public on GitHub, hoping to provide others with the opportunity to learn and inspire.
+
+However, I solemnly prohibit copying any part of this project as your own work. Plagiarism is a serious infringement that not only infringes on my rights and interests, but also damages your own reputation and academic development.
+
+Please respect my work and abide by the principles of intellectual property and academic integrity. If you have any questions or suggestions, please contact me.
+
 ### Introduction
 The Magic Square variation algorithm can deal with 30th order magic square problem within 100s. (Junior AIM course work)
 
