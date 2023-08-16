@@ -6,4 +6,4 @@ Based on VNS algorithm, other heuristics are used to complete the magic square c
 I tried Python, C/C++, but the C++ version worked better.
 
 See my report for details.
-- [Algorithm Report](Algotithm Reports.pdf)
+- [Algorithm Report](Algotithm Report.pdf)
