@@ -8,6 +8,7 @@ However, I solemnly prohibit copying any part of this project as your own work. 
 
 Please respect my work and abide by the principles of intellectual property and academic integrity. If you have any questions or suggestions, please contact me.
 
+
 ### Introduction
 The Magic Square variation algorithm can deal with 30th order magic square problem within 100s. (Junior AIM course work)
 
