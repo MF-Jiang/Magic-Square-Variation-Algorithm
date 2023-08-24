@@ -18,7 +18,7 @@ I have tried Python, C/ C ++ different programming languages to design this algo
 
 You can refer to my packaged paper or read my report to get a deeper understanding of this algorithm design.
 
-### See my report for details.
+### See my report for details
 - [Algorithm Report](Algorithm_Report.pdf)
 
 ### References
